@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Aux from '../../hoc/Aux';
 import './product.css';
 
 class Product extends Component{
