@@ -1,0 +1,14 @@
+.product {
+    display: inline-block;
+    width: 33.33%;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.id {
+    font-weight: bold;
+}
+
+.title {
+    color: red;
+}
